@@ -1,4 +1,4 @@
-## PNT2 - 2026 - Clase 1
+## PNT2 - 2026
 
 ### Docente: Matias Duro
 
