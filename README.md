@@ -2,4 +2,6 @@
 
 ### Docente: Matias Duro
 
-### Alumno: 
+### Alumno: Ezequiel Diaz Trigo
+### Alumno: Lucas Ariel Beronne
+### Alumno: Rodrigo Sanz
